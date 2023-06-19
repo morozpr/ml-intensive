@@ -3,3 +3,7 @@ machine_learning/
 catboost_info/
 *.png
 *.xlsx
+*.cbm
+city.json
+district.json
+.vscode
