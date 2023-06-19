@@ -1,2 +1,9 @@
 machine_learning/
 *.csv
+catboost_info/
+*.png
+*.xlsx
+*.cbm
+city.json
+district.json
+.vscode
